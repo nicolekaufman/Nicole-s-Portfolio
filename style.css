@@ -1,10 +1,49 @@
-body{
-    background-color: #dfb9ff;
+body {
+	background-color: #dfb9ff;
 }
-img, video{
+img,
+video {
 	max-width: 100%;
 	height: auto;
 }
-h1{
-  font-family: Courier New, monospace;
+h1 {
+	font-family:
+		Courier New,
+		monospace;
+}
+html {
+	font-size: 100%;
+}
+p {
+	font-size: medium;
+}
+figcaption {
+	font-size: small;
+}
+footer {
+	font-size: smaller;
+}
+
+h1 {
+	color: #4d43ba;
+}
+
+a {
+	color: rgb(255, 255, 255);
+}
+
+nav ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	background-color: #db94ec;
+}
+nav li {
+	display: inline-block;
+	margin-right: 20px;
+}
+
+.site-title {
+	font-size: x-large;
+	background-color: #db94ec;
 }
