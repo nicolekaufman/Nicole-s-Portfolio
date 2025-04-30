@@ -11,8 +11,10 @@ h1 {
 		Courier New,
 		monospace;
 }
+/****Font size*****/
 html {
 	font-size: 100%;
+	text-align: center;
 }
 p {
 	font-size: medium;
@@ -20,10 +22,11 @@ p {
 figcaption {
 	font-size: small;
 }
+figure{text-align: center}
 footer {
 	font-size: smaller;
 }
-
+/****font color*****/
 h1 {
 	color: #4d43ba;
 }
