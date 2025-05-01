@@ -6,12 +6,15 @@ video {
 	max-width: 100%;
 	height: auto;
 }
+/**********Font Family**********/
 h1 {
 	font-family:
-		Courier New,
+		Jazz LET, fantasy
 		monospace;
 }
-/****Font size*****/
+h2 {font-family:Didot, serif}
+
+/********Font size*********/
 html {
 	font-size: 100%;
 	text-align: center;
@@ -20,7 +23,7 @@ p {
 	font-size: medium;
 }
 figcaption {
-	font-size: small;
+	font-size: medium;
 }
 figure{text-align: center}
 footer {
@@ -30,10 +33,11 @@ footer {
 h1 {
 	color: #4d43ba;
 }
-
+header {color: #c3053f}
 a {
 	color: rgb(255, 255, 255);
 }
+h2 {color:#ad1745 }
 
 nav ul {
 	list-style: none;
